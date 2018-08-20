@@ -1,0 +1,201 @@
+/* Screen background */
+
+
+/* For table buttons */
+/* General table */
+.table{
+    -fx-border-color: black;
+}
+
+.table:hover {
+    -fx-background-color: #E4A6E7;
+}
+
+.order{
+    -fx-border-color: black;
+}
+
+.order:hover{
+    -fx-border-color: #E4A6E7;
+}
+
+/* Specific table */
+.unoccupied{
+    -fx-background-color: #39DDEC; /* Green */
+    -fx-text-alignment: center;
+}
+
+.occupied{
+    -fx-background-color: #F77A1E; /* Orange */
+    -fx-text-alignment: center;
+}
+
+.ordered{
+    -fx-background-color: #FFDD00; /* White */
+    -fx-text-alignment: center;
+}
+
+.ready{
+    -fx-background-color: #B3FF00; /* Blue */
+    -fx-text-alignment: center;
+}
+
+.completed{
+    -fx-background-color: #8E8505; /* Brown */
+    -fx-text-alignment: center;
+}
+.billed{
+    -fx-border-color: black;
+}
+
+/* Order Layout */
+.orderGrid{
+        -fx-padding: 10;
+        -fx-hgap: 10;
+        -fx-vgap: 5;
+        -fx-background-insets: 10 10 10 10;
+}
+
+/**
+Order Sheet stuff
+*/
+.serverLabel{
+    -fx-background-color: #8EDB24;
+    -fx-border-color: black;
+}
+
+.acknowledgeLabel{
+    -fx-color: #FFDD00; /* Yellow */
+}
+.foodOption{
+    -fx-border-color: black;
+    -fx-background-color: #24DB97;
+}
+.foodOption: hover{
+    -fx-background-color: #2B9970;
+}
+.cancel{
+    -fx-border-color: black;
+    -fx-background-color: red;
+}
+.cancel: hover{
+    -fx-background-color: #BB161E;
+}
+/* For displaying ingredients after clicking +/- ingredient*/
+.ingredientNameLabel{
+
+}
+
+/* Buttons */
+/* For green confirmation buttons*/
+.plus{
+    -fx-border-color: black;
+    -fx-background-color: #29EA4B;
+}
+.plus: hover{
+    -fx-background-color: #27C843;
+}
+/* For red style minus, but not as red as a cancel type*/
+.minus{
+    -fx-border-color: black;
+    -fx-background-color: #F58E7A;
+}
+.minus: hover{
+    -fx-background-color: #DE7F6D;
+}
+
+.navigationButton{
+    -fx-border-color: black;
+    -fx-background-color: #F77575;
+}
+
+.navigationButton: hover{
+    -fx-background-color: #00FF00;
+}
+
+.commandButton{
+    -fx-border-color: black;
+    -fx-background-color: #00FFFF;
+}
+
+.commandButton: hover{
+    -fx-background-color: #FF00DD;
+}
+
+.typeButton{
+    -fx-border-color: black;
+    -fx-background-color: #FCE609;
+}
+
+.typeButton: hover{
+    -fx-background-color: #D7C40B;
+}
+
+.acknowledge{
+    -fx-border-color:black;
+    -fx-background-color: #FFDD00; /* Yellow */
+}
+
+.acknowledge: hover{
+    -fx-background-color: #CCDD00;
+}
+
+.acknowledged{
+    -fx-border-color:black;
+    -fx-background-color: #CCDD00;
+}
+
+.acknowledged: hover{
+    -fx-background-color: #00DD00;
+}
+
+.cooked{
+    -fx-border-color: black;
+    -fx-background-color: #AADD00;
+}
+
+.cooked: hover{
+    -fx-background-color: #00EE00;
+}
+
+.finished{
+    -fx-border-color: black;
+    -fx-background-color: #00EE00;
+}
+
+.instructions{
+    -fx-border-color: black;
+    -fx-background-color: #1684E0;
+}
+
+.instructions:hover{
+    -fx-background-color: #106AB5;
+}
+
+/**** Buttons ****/
+
+.grid{
+    -fx-padding: 10;
+    -fx-hgap: 10;
+    -fx-vgap: 10;
+    -fx-background-insets: 10 10 10 10;
+}
+
+/* Bill */
+.billLabel {
+   -fx-font: 12px monospace;
+}
+
+.chefOrderInitial{
+   -fx-background-color: #FFA600;
+   -fx-text-alignment: center;
+}
+
+.addBill{
+    -fx-border-color: black;
+    -fx-background-color: #00FFFF;
+}
+
+.addBill: hover{
+    -fx-background-color: #10E4E4;
+}

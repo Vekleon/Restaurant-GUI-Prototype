@@ -1,0 +1,15 @@
+Restaurant hires Chef
+Restaurant hires Server
+Server_1 orders
+Server_1 adds Table_1 Combo1 ; Onions:1 | none ; none | none ; none | none
+Chef_1 cooking Table_1 Combo1 ; Onions:1 | none ; none | none ; none | none
+Chef_1 cooked Table_1 Combo1 ; Onions:1 | none ; none | none ; none | none
+Server_1 delivered Table_1 Combo1; none | none ; none | none; none | none
+Server_1 remove Table_1
+Restaurant hires Server
+Restaurant hires Server
+Restaurant fires Server_2
+Restaurant hires Server
+Server_2 orders
+Server_2 adds Table_1 Burger | none | none
+Server_2 complaint Table_1 Burger | none | none ~ tastes bad

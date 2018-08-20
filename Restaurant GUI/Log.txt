@@ -1,0 +1,45 @@
+Server 1 has added 1 to table 6's order.
+Chef1 has acknowledgedtable6's order.
+Chef 1 has finished cooking Bacon Cheese Burger from table 6's order.
+Server 2 has added 2 to table 10's order.
+Server 2 has added 3 to table 10's order.
+Server 2 has just taken the following order for table 10:Cheese Burger Small French Fries with 3 extra Fries and 2 less Salt 
+Chef 1 has acknowledgedtable 10's order.
+Chef 2 has finished cooking Small French Fries with 3 extra Fries and 2 less Salt from table 10's order.
+Chef 1 has finished cooking Cheese Burger from table 10's order.
+Server 2 has successfully delivered Cheese Burger to table 10.
+Server 2 has successfully delivered Small French Fries with 3 extra Fries and 2 less Salt to table 10.
+Chef 1 has finished cooking Cheese Burger from table 10's order.
+Server 2 has successfully delivered Cheese Burger to table 10.
+Received $5.31.
+Server 2 has added 1 to table 6's order.
+Server 2 has added 3 to table 6's order.
+Server 2 has added 4 to table 6's order.
+Server 2 has added Combo1 to table 6's order.
+Server 2 has just taken the following order for table 6:Bacon Cheese Burger, Small French Fries, Medium French Fries with 8 extra Fries and 4 less Salt, Combo1 with 3 extra Cheese on Bacon Cheese Burger, 15 less Fries on Small French Fries and 4 extra Salt on Hash Browns, 
+Chef 1 has acknowledgedtable 6's order.
+Server 1 has added 3 to table 10's order.
+Server 1 has added 3 to table 10's order.
+Server 1 has added 4 to table 10's order.
+Server 1 has just taken the following order for table 10:Small French Fries with 6 extra Fries, Small French Fries, Medium French Fries with 2 extra Fries and 4 less Salt, 
+Chef 1 has acknowledgedtable 10's order.
+Server 2 has added 4 to table 6's order.
+Server 2 has added Combo1 to table 6's order.
+Server 2 has added Combo2 to table 6's order.
+Server 2 has just taken the following order for table 6:Medium French Fries with 5 extra Fries and 2 less Salt, Combo1 with 7 extra Lettuce and 2 less Cheese on Bacon Cheese Burger, , Combo2, 
+Chef 1 has acknowledgedtable 6's order.
+Server 1 has added 1 to table 1's order.
+Server 1 has just taken the following order for table 1:Bacon Cheese Burger, 
+Chef 1 has acknowledgedtable 1's order.
+Server 1 has added Combo1 to table 1's order.
+Server 1 has just taken the following order for table 1:Combo1 with 4 extra Lettuce, 3 extra Bacon and 1 less Cheese on Bacon Cheese Burger, 5 extra Fries and 3 less Salt on Small French Fries and 3 extra Salt and 1 less Potatoes on Hash Browns, 
+Chef 1 has acknowledgedtable 1's order.
+Server 1 has added Combo2 to table 1's order.
+Server 1 has just taken the following order for table 1:Combo2 with 4 extra Lettuce, 1 extra Patty and 1 less Cheese, 1 less Buns on Cheese Burger, 4 extra Fries and 1 less Salt on Medium French Fries and 5 extra Soda on Small Soft Drink, 
+Chef 1 has acknowledgedtable 1's order.
+Server 1 has added Combo5 to table 5's order.
+Server 1 has just taken the following order for table 5:Combo5 with 1 extra Ketchup, 1 extra Buns, 2 extra Cheese, 2 extra Mustard, 2 extra Bacon, 1 extra Patty, 1 extra Pickles and 1 less Onions on House Special Burger, 4 extra Soda on Large Soft Drink, 3 extra Fries and 3 less Salt on Large French Fries, 
+Chef 1 has acknowledgedtable 5's order.
+Server 1 has added Combo5 to table 1's order.
+Server 1 has just taken the following order for table 1:Combo5 with 1 extra Pickles, 1 extra Patty, 1 extra Bacon, 2 extra Mustard, 2 extra Tomatoes, 1 extra Cheese, 1 extra Buns, 2 extra Onions, 1 extra Ketchup on House Special Burger, 3 extra Soda on Large Soft Drink, 2 extra Fries and 1 less Salt on Large French Fries, 
+Chef 1 has acknowledgedtable 1's order.

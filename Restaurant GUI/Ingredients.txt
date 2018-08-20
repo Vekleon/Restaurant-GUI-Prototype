@@ -1,0 +1,16 @@
+Bacon | 80 | 30
+Cheese | 120 | 40
+Buns | 200 | 50
+Patty | 200 | 45
+Fries | 900 | 300
+Salt | 1000 | 350
+Secret Sauce | 50 | 15
+Onions | 60 | 20
+Pickles | 60 | 20
+Lettuce | 100 | 40
+Tomatoes | 60 | 20
+Ketchup | 80 | 30
+Mustard | 80 | 30
+Chicken Nuggies | 500 | 130
+Potatoes | 80 | 20
+Soda | 400 | 100
